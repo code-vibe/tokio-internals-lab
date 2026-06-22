@@ -1,0 +1,24 @@
+# Rust
+/target/
+
+# Keep Cargo.lock for applications
+# Ignore for libraries only
+# Cargo.lock
+
+# JetBrains / RustRover
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
